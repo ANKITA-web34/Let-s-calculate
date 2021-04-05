@@ -39,7 +39,8 @@ body {
     width: 32rem;
     position: absolute;
     top: 60%;
-    font-family: Londrina Sketch;
+    font-size: 2rem;
+    font-family: Cabin Sketch;
 }
 
 #history {
