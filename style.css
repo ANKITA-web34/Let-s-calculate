@@ -83,6 +83,10 @@ body {
     font-size: 1.2rem;
 }
 
+.operator:focus, .number:focus, .empty:focus {
+    outline: none;
+}
+
 button:nth-child(4) {
     font-size: 2rem;
     background-color: rgba(34, 110, 160, 0.397);
